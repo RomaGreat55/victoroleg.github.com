@@ -1,2 +1,0 @@
-# victoroleg.github.com
-victoroleg
